@@ -1,2 +1,2 @@
-# KRITI-Martian_core_analysis_2025
+# KRITI - Martian Core Analysis 
 This is our github repo for Astronomy Module of Kriti 2025.
